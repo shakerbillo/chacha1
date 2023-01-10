@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chacha1/static/css/main.54914d2f.css",
+    "main.js": "/chacha1/static/js/main.5866e180.js",
+    "index.html": "/chacha1/index.html",
+    "main.54914d2f.css.map": "/chacha1/static/css/main.54914d2f.css.map",
+    "main.5866e180.js.map": "/chacha1/static/js/main.5866e180.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54914d2f.css",
+    "static/js/main.5866e180.js"
+  ]
+}
